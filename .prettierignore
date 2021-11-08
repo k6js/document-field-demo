@@ -1,0 +1,6 @@
+package.json
+.changeset/**/*
+**/dist
+**/.next
+**/.keystone
+.keystone/tests

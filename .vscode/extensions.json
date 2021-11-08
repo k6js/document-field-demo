@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "apollographql.vscode-apollo",
+    "formulahendry.auto-rename-tag",
+    "anseki.vscode-color",
+    "mhutchie.git-graph",
+    "esbenp.prettier-vscode",
+    "svipas.prettier-plus",
+    "prisma.prisma",
+    "ms-vscode-remote.vscode-remote-extensionpack"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo-starter/button",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/monorepo-starter-button.cjs.js",
+  "module": "dist/monorepo-starter-button.esm.js",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "repository": "https://github.com/k6js/document-field-demo/tree/master/packages/button"
+}
